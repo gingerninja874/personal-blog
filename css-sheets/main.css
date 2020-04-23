@@ -14,7 +14,6 @@ body {
 h1 {
     font-family: 'Anton', sans-serif;
     color: #66FCF1;
-    font-size: 100;
 }
 
 .heading {
@@ -22,13 +21,13 @@ h1 {
 }
 
 .heading h1 {
-    font-family: 'Anton', sans-serif;
-    color: #66FCF1;
+    font-size: 7em;
 }
 
 .heading  h5{
     font-style: italic;
     font-family: 'Open Sans', sans-serif;
+    font-size: 1.4em
 }
 
 .columnising {
